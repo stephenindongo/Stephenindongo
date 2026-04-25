@@ -35,7 +35,7 @@
 <!-- Brand Statement -->
 <!-- ========================= -->
 <div align="center" style="font-family: Montserrat, sans-serif; font-size: 20px; line-height: 1.6;">
-I build practical software for businesses—from internal tools and automation to full web and mobile apps—with a focus on clean architecture, data‑driven decisions, and long‑term maintainability.
+I build practical software for businesses from internal tools and automation to full web and mobile apps, with a focus on clean architecture, data‑driven decisions, and long‑term maintainability.
 
 </div>
 
