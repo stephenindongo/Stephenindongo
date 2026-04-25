@@ -35,7 +35,8 @@
 <!-- Brand Statement -->
 <!-- ========================= -->
 <div align="center" style="font-family: Montserrat, sans-serif; font-size: 20px; line-height: 1.6;">
-  I turn SaaS ideas into production-ready systems and share practical tools, workflows, and AI insights.
+I build practical software for businesses—from internal tools and automation to full web and mobile apps—with a focus on clean architecture, data‑driven decisions, and long‑term maintainability.
+
 </div>
 
 ---
@@ -45,14 +46,14 @@
 <!-- ========================= -->
 <div align="center">
 
-## 📌 Current Focus
+##  Current Focus
 
 | |
 |---|
-| 💡 Helping solo founders & junior developers build SaaS MVPs |
-| ⚙️ Creating production-grade applications with modern workflows |
-| 🤖 Exploring AI-assisted coding & intelligent automation |
-| 🌱 Growing a focused, high-signal tech community |
+| Applied AI & Machine Learning for Products |
+|  Distributed Systems, Cloud & Scalability |
+|  Data Engineering & Analytics for Decisions |
+|  Security, Privacy & Robust Engineering |
 
 </div>
 
@@ -63,7 +64,7 @@
 <!-- ========================= -->
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -93,7 +94,7 @@
 <!-- ========================= -->
 <div align="center">
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <a href="mailto:indongostephen@gmail.com">
   <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
